@@ -13,7 +13,7 @@ import  { GlobalStyles } from './styles/styles';
 ReactDOM.render(
   
   <Provider store={store}>
-    <Router basename={process.env.NODE_ENV === 'production' ? process.env.REACT_APP_PROD_API_URL : '/'}>
+    <Router>
     
         <GlobalStyles  />
         <App />
