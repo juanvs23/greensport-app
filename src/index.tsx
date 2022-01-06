@@ -13,7 +13,7 @@ import  { GlobalStyles } from './styles/styles';
 ReactDOM.render(
   
   <Provider store={store}>
-    <Router>
+    <Router basename={'/' || process.env.BASE_UR }>
     
         <GlobalStyles  />
         <App />
