@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/greensport-app/static/css/main.94c04e86.css",
+    "main.js": "/greensport-app/static/js/main.c0c30775.js",
+    "static/media/bootstrap-icons.woff?": "/greensport-app/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/greensport-app/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "static/media/sun.svg": "/greensport-app/static/media/sun.2574243e9ec5ab600f72c02649d5ee33.svg",
+    "static/media/moon.svg": "/greensport-app/static/media/moon.fd2d5f18981c3fd99e5d37ca05143eb1.svg",
+    "static/media/rocket-launch-fill 1.svg": "/greensport-app/static/media/rocket-launch-fill 1.1e9140315980525fa39bf21fc700455c.svg",
+    "static/media/notepad-fill 1.svg": "/greensport-app/static/media/notepad-fill 1.540a29f86b715f2a0345aa508fb4d97c.svg",
+    "static/media/timer-fill 1.svg": "/greensport-app/static/media/timer-fill 1.aa59b69dcce546f080c2726943e4bd37.svg",
+    "index.html": "/greensport-app/index.html",
+    "static/media/house-simple-fill 1.svg": "/greensport-app/static/media/house-simple-fill 1.1db5076b7a22eec45811f6948e24b35e.svg",
+    "static/media/user.svg": "/greensport-app/static/media/user.40fbdcd7ea158af8c323558fdeeed170.svg",
+    "main.94c04e86.css.map": "/greensport-app/static/css/main.94c04e86.css.map",
+    "main.c0c30775.js.map": "/greensport-app/static/js/main.c0c30775.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c04e86.css",
+    "static/js/main.c0c30775.js"
+  ]
+}
