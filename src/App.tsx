@@ -31,6 +31,7 @@ function App() {
   React.useEffect(()=>{
   onAuthStateChanged(auth,(user)=>{
     setLoading(true)
+    
     if(user){
     console.log(user);
 
